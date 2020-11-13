@@ -1,0 +1,5 @@
+name: MoreStats
+version: ${project.version}
+main: de.linuxgamer.morestats.Stats
+api-version: 1.16
+authors: [ Linuxgamer ]
